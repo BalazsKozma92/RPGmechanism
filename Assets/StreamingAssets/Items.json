@@ -1,0 +1,3224 @@
+[
+	{
+		"id": 0,
+		"title" : "Green Belt of Hushed Wisdom",
+		"type" : "Belt",
+		"value" : 43,
+		"stats" : {
+			"damage" : "0",
+			"strength" : 4,
+			"stamina" : 2,
+			"critchance" : 2,
+			"intellect" : 0,
+			"armor" : 0
+		},
+		"description" : "PLACEHOLDER",
+		"stackable" : false,
+		"rarity" : 1,
+		"slug" : "belt_1"
+	},
+	{
+		"id": 1,
+		"title" : "Cuirboulli Belt",
+		"type" : "Belt",
+		"value" : 76,
+		"stats" : {
+			"damage" : "0",
+			"strength" : 7,
+			"stamina" : 4,
+			"critchance" : 3,
+			"intellect" : 0,
+			"armor" : 0
+		},
+		"description" : "PLACEHOLDER",
+		"stackable" : false,
+		"rarity" : 2,
+		"slug" : "belt_2"
+	},
+	{
+		"id": 2,
+		"title" : "Scaled Leather Belt",
+		"type" : "Belt",
+		"value" : 114,
+		"stats" : {
+			"damage" : "0",
+			"strength" : 11,
+			"stamina" : 8,
+			"critchance" : 4,
+			"intellect" : 0,
+			"armor" : 0
+		},
+		"description" : "PLACEHOLDER",
+		"stackable" : false,
+		"rarity" : 3,
+		"slug" : "belt_3"
+	},
+	{
+		"id": 3,
+		"title" : "Windsong Cinch",
+		"type" : "Belt",
+		"value" : 154,
+		"stats" : {
+			"damage" : "0",
+			"strength" : 16,
+			"stamina" : 12,
+			"critchance" : 5,
+			"intellect" : 0,
+			"armor" : 0
+		},
+		"description" : "PLACEHOLDER",
+		"stackable" : false,
+		"rarity" : 4,
+		"slug" : "belt_4"
+	},
+	{
+		"id": 4,
+		"title" : "Vigorous Belt",
+		"type" : "Belt",
+		"value" : 245,
+		"stats" : {
+			"damage" : "0",
+			"strength" : 24,
+			"stamina" : 16,
+			"critchance" : 6,
+			"intellect" : 0,
+			"armor" : 0
+		},
+		"description" : "PLACEHOLDER",
+		"stackable" : false,
+		"rarity" : 5,
+		"slug" : "belt_5"
+	},
+	{
+		"id": 5,
+		"title" : "Tundra Boots",
+		"type" : "Boots",
+		"value" : 23,
+		"stats" : {
+			"damage" : 0,
+			"strength" : 4,
+			"stamina" : 2,
+			"critchance" : 2,
+			"intellect" : 0,
+			"armor" : 0
+		},
+		"description" : "PLACEHOLDER",
+		"stackable" : false,
+		"rarity" : 1,
+		"slug" : "boots_1"
+	},
+	{
+		"id": 6,
+		"title" : "Draftsman Boots",
+		"type" : "Boots",
+		"value" : 55,
+		"stats" : {
+			"damage" : 0,
+			"strength" : 3,
+			"stamina" : 8,
+			"critchance" : 3,
+			"intellect" : 0,
+			"armor" : 0
+		},
+		"description" : "PLACEHOLDER",
+		"stackable" : false,
+		"rarity" : 2,
+		"slug" : "boots_2"
+	},
+	{
+		"id": 7,
+		"title" : "Trailblazer Boots",
+		"type" : "Boots",
+		"value" : 86,
+		"stats" : {
+			"damage" : "0",
+			"strength" : 5,
+			"stamina" : 14,
+			"critchance" : 4,
+			"intellect" : 0,
+			"armor" : 0
+		},
+		"description" : "PLACEHOLDER",
+		"stackable" : false,
+		"rarity" : 3,
+		"slug" : "boots_3"
+	},
+	{
+		"id": 8,
+		"title" : "Fancy Footwork",
+		"type" : "Boots",
+		"value" : 112,
+		"stats" : {
+			"damage" : "0",
+			"strength" : 8,
+			"stamina" : 18,
+			"critchance" : 5,
+			"intellect" : 0,
+			"armor" : 0
+		},
+		"description" : "PLACEHOLDER",
+		"stackable" : false,
+		"rarity" : 4,
+		"slug" : "boots_4"
+	},
+	{
+		"id": 9,
+		"title" : "Wrangler's Boots",
+		"type" : "Boots",
+		"value" : 157,
+		"stats" : {
+			"damage" : "0",
+			"strength" : 12,
+			"stamina" : 24,
+			"critchance" : 6,
+			"intellect" : 0,
+			"armor" : 0
+		},
+		"description" : "PLACEHOLDER",
+		"stackable" : false,
+		"rarity" : 5,
+		"slug" : "boots_5"
+	},
+	{
+		"id": 10,
+		"title" : "Madwolf Bracers",
+		"type" : "Wrist",
+		"value" : 16,
+		"stats" : {
+			"damage" : "0",
+			"strength" : 4,
+			"stamina" : 4,
+			"critchance" : 3,
+			"intellect" : 0,
+			"armor" : 0
+		},
+		"description" : "PLACEHOLDER",
+		"stackable" : false,
+		"rarity" : 1,
+		"slug" : "bracer_1"
+	},
+	{
+		"id": 11,
+		"title" : "Emissary Cuffs",
+		"type" : "Wrist",
+		"value" : 43,
+		"stats" : {
+			"damage" : "0",
+			"strength" : 7,
+			"stamina" : 6,
+			"critchance" : 4,
+			"intellect" : 0,
+			"armor" : 0
+		},
+		"description" : "PLACEHOLDER",
+		"stackable" : false,
+		"rarity" : 2,
+		"slug" : "bracer_2"
+	},
+	{
+		"id": 12,
+		"title" : "Tough Leather Bracers",
+		"type" : "Wrist",
+		"value" : 87,
+		"stats" : {
+			"damage" : "0",
+			"strength" : 10,
+			"stamina" : 8,
+			"critchance" : 5,
+			"intellect" : 0,
+			"armor" : 0
+		},
+		"description" : "PLACEHOLDER",
+		"stackable" : false,
+		"rarity" : 3,
+		"slug" : "bracer_3"
+	},
+	{
+		"id": 13,
+		"title" : "Pathfinder Bracers",
+		"type" : "Wrist",
+		"value" : 109,
+		"stats" : {
+			"damage" : "0",
+			"strength" : 14,
+			"stamina" : 12,
+			"critchance" : 6,
+			"intellect" : 0,
+			"armor" : 0
+		},
+		"description" : "PLACEHOLDER",
+		"stackable" : false,
+		"rarity" : 4,
+		"slug" : "bracer_4"
+	},
+	{
+		"id": 14,
+		"title" : "Drakewing Bands",
+		"type" : "Wrist",
+		"value" : 147,
+		"stats" : {
+			"damage" : "0",
+			"strength" : 16,
+			"stamina" : 13,
+			"critchance" : 7,
+			"intellect" : 0,
+			"armor" : 0
+		},
+		"description" : "PLACEHOLDER",
+		"stackable" : false,
+		"rarity" : 5,
+		"slug" : "bracer_5"
+	},
+	{
+		"id": 15,
+		"title" : "Brawnhide Armor",
+		"type" : "Chest",
+		"value" : 153,
+		"stats" : {
+			"damage" : "0",
+			"strength" : 5,
+			"stamina" : 6,
+			"critchance" : 2,
+			"intellect" : 0,
+			"armor" : 0
+		},
+		"description" : "PLACEHOLDER",
+		"stackable" : false,
+		"rarity" : 1,
+		"slug" : "chest_1"
+	},
+	{
+		"id": 16,
+		"title" : "Temple's Vest",
+		"type" : "Chest",
+		"value" : 207,
+		"stats" : {
+			"damage" : "0",
+			"strength" : 11,
+			"stamina" : 10,
+			"critchance" : 3,
+			"intellect" : 0,
+			"armor" : 0
+		},
+		"description" : "PLACEHOLDER",
+		"stackable" : false,
+		"rarity" : 2,
+		"slug" : "chest_2"
+	},
+	{
+		"id": 17,
+		"title" : "Grizzly Tunic",
+		"type" : "Chest",
+		"value" : 261,
+		"stats" : {
+			"damage" : "0",
+			"strength" : 16,
+			"stamina" : 16,
+			"critchance" : 4,
+			"intellect" : 0,
+			"armor" : 0
+		},
+		"description" : "PLACEHOLDER",
+		"stackable" : false,
+		"rarity" : 3,
+		"slug" : "chest_3"
+	},
+	{
+		"id": 18,
+		"title" : "Steelgut Vest",
+		"type" : "Chest",
+		"value" : 322,
+		"stats" : {
+			"damage" : "0",
+			"strength" : 23,
+			"stamina" : 22,
+			"critchance" : 5,
+			"intellect" : 0,
+			"armor" : 0
+		},
+		"description" : "PLACEHOLDER",
+		"stackable" : false,
+		"rarity" : 4,
+		"slug" : "chest_4"
+	},
+	{
+		"id": 19,
+		"title" : "Vest of the Phantom",
+		"type" : "Chest",
+		"value" : 374,
+		"stats" : {
+			"damage" : "0",
+			"strength" : 28,
+			"stamina" : 29,
+			"critchance" : 6,
+			"intellect" : 0,
+			"armor" : 0
+		},
+		"description" : "PLACEHOLDER",
+		"stackable" : false,
+		"rarity" : 5,
+		"slug" : "chest_5"
+	},
+	{
+		"id": 20,
+		"title" : "Linen Cloth",
+		"type" : "Miscellaneous",
+		"value" : 4,
+		"stats" : {
+			"damage" : "0",
+			"strength" : 0,
+			"stamina" : 0,
+			"critchance" : 0,
+			"intellect" : 0,
+			"armor" : 0
+		},
+		"description" : "Used to make bandages.",
+		"stackable" : true,
+		"rarity" : 1,
+		"slug" : "cloth_1"
+	},
+	{
+		"id": 21,
+		"title" : "Bolt of Linen Cloth",
+		"type" : "Miscellaneous",
+		"value" : 16,
+		"stats" : {
+			"damage" : "0",
+			"strength" : 0,
+			"stamina" : 0,
+			"critchance" : 0,
+			"intellect" : 0,
+			"armor" : 0
+		},
+		"description" : "PLACEHOLDER",
+		"stackable" : true,
+		"rarity" : 1,
+		"slug" : "cloth_2"
+	},
+	{
+		"id": 22,
+		"title" : "Thread",
+		"type" : "Miscellaneous",
+		"value" : 2,
+		"stats" : {
+			"damage" : "0",
+			"strength" : 0,
+			"stamina" : 0,
+			"critchance" : 0,
+			"intellect" : 0,
+			"armor" : 0
+		},
+		"description" : "PLACEHOLDER",
+		"stackable" : true,
+		"rarity" : 1,
+		"slug" : "cloth_3"
+	},
+	{
+		"id": 23,
+		"title" : "Mageweave Cloth",
+		"type" : "Miscellaneous",
+		"value" : 15,
+		"stats" : {
+			"damage" : "0",
+			"strength" : 0,
+			"stamina" : 0,
+			"critchance" : 0,
+			"intellect" : 0,
+			"armor" : 0
+		},
+		"description" : "PLACEHOLDER",
+		"stackable" : true,
+		"rarity" : 1,
+		"slug" : "cloth_4"
+	},
+	{
+		"id": 24,
+		"title" : "Silk Cloth",
+		"type" : "Miscellaneous",
+		"value" : 21,
+		"stats" : {
+			"damage" : "0",
+			"strength" : 0,
+			"stamina" : 0,
+			"critchance" : 0,
+			"intellect" : 0,
+			"armor" : 0
+		},
+		"description" : "PLACEHOLDER",
+		"stackable" : true,
+		"rarity" : 1,
+		"slug" : "cloth_5"
+	},
+	{
+		"id": 25,
+		"title" : "Gold Coins",
+		"type" : "Miscellaneous",
+		"value" : 100,
+		"stats" : {
+			"damage" : "0",
+			"strength" : 0,
+			"stamina" : 0,
+			"critchance" : 0,
+			"intellect" : 0,
+			"armor" : 0
+		},
+		"description" : "PLACEHOLDER",
+		"stackable" : true,
+		"rarity" : 1,
+		"slug" : "coins_gold"
+	},
+	{
+		"id": 26,
+		"title" : "Silver Coins",
+		"type" : "Miscellaneous",
+		"value" : 50,
+		"stats" : {
+			"damage" : "0",
+			"strength" : 0,
+			"stamina" : 0,
+			"critchance" : 0,
+			"intellect" : 0,
+			"armor" : 0
+		},
+		"description" : "PLACEHOLDER",
+		"stackable" : true,
+		"rarity" : 1,
+		"slug" : "coins_silver"
+	},
+	{
+		"id": 27,
+		"title" : "Sky Crystal",
+		"type" : "Miscellaneous",
+		"value" : 34,
+		"stats" : {
+			"damage" : "0",
+			"strength" : 0,
+			"stamina" : 0,
+			"critchance" : 0,
+			"intellect" : 0,
+			"armor" : 0
+		},
+		"description" : "PLACEHOLDER",
+		"stackable" : true,
+		"rarity" : 1,
+		"slug" : "crystal_1"
+	},
+	{
+		"id": 28,
+		"title" : "Arcane Crystal",
+		"type" : "Miscellaneous",
+		"value" : 42,
+		"stats" : {
+			"damage" : "0",
+			"strength" : 0,
+			"stamina" : 0,
+			"critchance" : 0,
+			"intellect" : 0,
+			"armor" : 0
+		},
+		"description" : "PLACEHOLDER",
+		"stackable" : true,
+		"rarity" : 1,
+		"slug" : "crystal_2"
+	},
+	{
+		"id": 29,
+		"title" : "Water Crystal",
+		"type" : "Miscellaneous",
+		"value" : 23,
+		"stats" : {
+			"damage" : "0",
+			"strength" : 0,
+			"stamina" : 0,
+			"critchance" : 0,
+			"intellect" : 0,
+			"armor" : 0
+		},
+		"description" : "PLACEHOLDER",
+		"stackable" : true,
+		"rarity" : 1,
+		"slug" : "crystal_3"
+	},
+	{
+		"id": 30,
+		"title" : "Iron Boot Flask",
+		"type" : "Miscellaneous",
+		"value" : 33,
+		"stats" : {
+			"damage" : "0",
+			"strength" : 0,
+			"stamina" : 0,
+			"critchance" : 0,
+			"intellect" : 0,
+			"armor" : 0
+		},
+		"description" : "PLACEHOLDER",
+		"stackable" : false,
+		"rarity" : 1,
+		"slug" : "drink_1"
+	},
+	{
+		"id": 31,
+		"title" : "Light Ale",
+		"type" : "Miscellaneous",
+		"value" : 7,
+		"stats" : {
+			"damage" : "0",
+			"strength" : 0,
+			"stamina" : 0,
+			"critchance" : 0,
+			"intellect" : 0,
+			"armor" : 0
+		},
+		"description" : "PLACEHOLDER",
+		"stackable" : true,
+		"rarity" : 1,
+		"slug" : "drink_2"
+	},
+	{
+		"id": 32,
+		"title" : "Strong Ale",
+		"type" : "Miscellaneous",
+		"value" : 10,
+		"stats" : {
+			"damage" : "0",
+			"strength" : 0,
+			"stamina" : 0,
+			"critchance" : 0,
+			"intellect" : 0,
+			"armor" : 0
+		},
+		"description" : "PLACEHOLDER",
+		"stackable" : true,
+		"rarity" : 1,
+		"slug" : "drink_3"
+	},
+	{
+		"id": 33,
+		"title" : "Flask of Oil",
+		"type" : "Miscellaneous",
+		"value" : 15,
+		"stats" : {
+			"damage" : "0",
+			"strength" : 0,
+			"stamina" : 0,
+			"critchance" : 0,
+			"intellect" : 0,
+			"armor" : 0
+		},
+		"description" : "PLACEHOLDER",
+		"stackable" : true,
+		"rarity" : 1,
+		"slug" : "drink_4"
+	},
+	{
+		"id": 34,
+		"title" : "Honeymint Wine",
+		"type" : "Miscellaneous",
+		"value" : 14,
+		"stats" : {
+			"damage" : "0",
+			"strength" : 0,
+			"stamina" : 0,
+			"critchance" : 0,
+			"intellect" : 0,
+			"armor" : 0
+		},
+		"description" : "PLACEHOLDER",
+		"stackable" : true,
+		"rarity" : 1,
+		"slug" : "drink_5"
+	},
+	{
+		"id": 35,
+		"title" : "Warm Goren Egg",
+		"type" : "Miscellaneous",
+		"value" : 21,
+		"stats" : {
+			"damage" : "0",
+			"strength" : 0,
+			"stamina" : 0,
+			"critchance" : 0,
+			"intellect" : 0,
+			"armor" : 0
+		},
+		"description" : "PLACEHOLDER",
+		"stackable" : true,
+		"rarity" : 1,
+		"slug" : "egg_1"
+	},
+	{
+		"id": 36,
+		"title" : "Small Egg",
+		"type" : "Miscellaneous",
+		"value" : 5,
+		"stats" : {
+			"damage" : "0",
+			"strength" : 0,
+			"stamina" : 0,
+			"critchance" : 0,
+			"intellect" : 0,
+			"armor" : 0
+		},
+		"description" : "PLACEHOLDER",
+		"stackable" : true,
+		"rarity" : 1,
+		"slug" : "egg_2"
+	},
+	{
+		"id": 37,
+		"title" : "Cracked Egg",
+		"type" : "Miscellaneous",
+		"value" : 2,
+		"stats" : {
+			"damage" : "0",
+			"strength" : 0,
+			"stamina" : 0,
+			"critchance" : 0,
+			"intellect" : 0,
+			"armor" : 0
+		},
+		"description" : "PLACEHOLDER",
+		"stackable" : true,
+		"rarity" : 1,
+		"slug" : "egg_3"
+	},
+	{
+		"id": 38,
+		"title" : "Black Feather",
+		"type" : "Miscellaneous",
+		"value" : 67,
+		"stats" : {
+			"damage" : "0",
+			"strength" : 0,
+			"stamina" : 0,
+			"critchance" : 0,
+			"intellect" : 0,
+			"armor" : 0
+		},
+		"description" : "PLACEHOLDER",
+		"stackable" : true,
+		"rarity" : 1,
+		"slug" : "feather_1"
+	},
+	{
+		"id": 39,
+		"title" : "Light Feather",
+		"type" : "Miscellaneous",
+		"value" : 48,
+		"stats" : {
+			"damage" : "0",
+			"strength" : 0,
+			"stamina" : 0,
+			"critchance" : 0,
+			"intellect" : 0,
+			"armor" : 0
+		},
+		"description" : "PLACEHOLDER",
+		"stackable" : true,
+		"rarity" : 1,
+		"slug" : "feather_2"
+	},
+	{
+		"id": 40,
+		"title" : "Arakkoa Feather",
+		"type" : "Miscellaneous",
+		"value" : 73,
+		"stats" : {
+			"damage" : "0",
+			"strength" : 0,
+			"stamina" : 0,
+			"critchance" : 0,
+			"intellect" : 0,
+			"armor" : 0
+		},
+		"description" : "PLACEHOLDER",
+		"stackable" : true,
+		"rarity" : 1,
+		"slug" : "feather_3"
+	},
+	{
+		"id": 41,
+		"title" : "Phoenix Feather",
+		"type" : "Miscellaneous",
+		"value" : 132,
+		"stats" : {
+			"damage" : "0",
+			"strength" : 0,
+			"stamina" : 0,
+			"critchance" : 0,
+			"intellect" : 0,
+			"armor" : 0
+		},
+		"description" : "PLACEHOLDER",
+		"stackable" : true,
+		"rarity" : 1,
+		"slug" : "feather_4"
+	},
+	{
+		"id": 42,
+		"title" : "Deadwood Harpy Feather",
+		"type" : "Miscellaneous",
+		"value" : 59,
+		"stats" : {
+			"damage" : "0",
+			"strength" : 0,
+			"stamina" : 0,
+			"critchance" : 0,
+			"intellect" : 0,
+			"armor" : 0
+		},
+		"description" : "PLACEHOLDER",
+		"stackable" : true,
+		"rarity" : 1,
+		"slug" : "feather_5"
+	},
+	{
+		"id": 43,
+		"title" : "Mild Cheese",
+		"type" : "Food",
+		"value" : 5,
+		"stats" : {
+			"damage" : "0",
+			"strength" : 0,
+			"stamina" : 0,
+			"critchance" : 0,
+			"intellect" : 0,
+			"armor" : 0
+		},
+		"description" : "PLACEHOLDER",
+		"stackable" : true,
+		"rarity" : 1,
+		"slug" : "food_1"
+	},
+	{
+		"id": 44,
+		"title" : "Spice Bread",
+		"type" : "Food",
+		"value" : 8,
+		"stats" : {
+			"damage" : "0",
+			"strength" : 0,
+			"stamina" : 0,
+			"critchance" : 0,
+			"intellect" : 0,
+			"armor" : 0
+		},
+		"description" : "PLACEHOLDER",
+		"stackable" : true,
+		"rarity" : 1,
+		"slug" : "food_2"
+	},
+	{
+		"id": 45,
+		"title" : "Tender Wolf Meat",
+		"type" : "Miscellaneous",
+		"value" : 23,
+		"stats" : {
+			"damage" : "0",
+			"strength" : 0,
+			"stamina" : 0,
+			"critchance" : 0,
+			"intellect" : 0,
+			"armor" : 0
+		},
+		"description" : "PLACEHOLDER",
+		"stackable" : true,
+		"rarity" : 1,
+		"slug" : "food_3"
+	},
+	{
+		"id": 46,
+		"title" : "Freshly Baked Bread",
+		"type" : "Food",
+		"value" : 6,
+		"stats" : {
+			"damage" : "0",
+			"strength" : 0,
+			"stamina" : 0,
+			"critchance" : 0,
+			"intellect" : 0,
+			"armor" : 0
+		},
+		"description" : "PLACEHOLDER",
+		"stackable" : true,
+		"rarity" : 1,
+		"slug" : "food_4"
+	},
+	{
+		"id": 47,
+		"title" : "Spiced Chicken Meat",
+		"type" : "Food",
+		"value" : 6,
+		"stats" : {
+			"damage" : "0",
+			"strength" : 0,
+			"stamina" : 0,
+			"critchance" : 0,
+			"intellect" : 0,
+			"armor" : 0
+		},
+		"description" : "PLACEHOLDER",
+		"stackable" : true,
+		"rarity" : 1,
+		"slug" : "food_5"
+	},
+	{
+		"id": 48,
+		"title" : "Stringy Wolf Meat",
+		"type" : "Miscellaneous",
+		"value" : 26,
+		"stats" : {
+			"damage" : "0",
+			"strength" : 0,
+			"stamina" : 0,
+			"critchance" : 0,
+			"intellect" : 0,
+			"armor" : 0
+		},
+		"description" : "PLACEHOLDER",
+		"stackable" : true,
+		"rarity" : 1,
+		"slug" : "food_6"
+	},
+	{
+		"id": 49,
+		"title" : "Stinky Fish",
+		"type" : "Food",
+		"value" : 3,
+		"stats" : {
+			"damage" : "0",
+			"strength" : 0,
+			"stamina" : 0,
+			"critchance" : 0,
+			"intellect" : 0,
+			"armor" : 0
+		},
+		"description" : "PLACEHOLDER",
+		"stackable" : true,
+		"rarity" : 1,
+		"slug" : "food_fish_1"
+	},
+	{
+		"id": 50,
+		"title" : "Bloodbelly Fish",
+		"type" : "Food",
+		"value" : 70,
+		"stats" : {
+			"damage" : "0",
+			"strength" : 0,
+			"stamina" : 0,
+			"critchance" : 0,
+			"intellect" : 0,
+			"armor" : 0
+		},
+		"description" : "PLACEHOLDER",
+		"stackable" : true,
+		"rarity" : 1,
+		"slug" : "food_fish_2"
+	},
+	{
+		"id": 51,
+		"title" : "Angel Fish",
+		"type" : "Food",
+		"value" : 54,
+		"stats" : {
+			"damage" : "0",
+			"strength" : 0,
+			"stamina" : 0,
+			"critchance" : 0,
+			"intellect" : 0,
+			"armor" : 0
+		},
+		"description" : "PLACEHOLDER",
+		"stackable" : true,
+		"rarity" : 1,
+		"slug" : "food_fish_3"
+	},
+	{
+		"id": 52,
+		"title" : "Wandering Hands",
+		"type" : "Hands",
+		"value" : 29,
+		"stats" : {
+			"damage" : "0",
+			"strength" : 5,
+			"stamina" : 2,
+			"critchance" : 2,
+			"intellect" : 0,
+			"armor" : 0
+		},
+		"description" : "PLACEHOLDER",
+		"stackable" : false,
+		"rarity" : 1,
+		"slug" : "gauntles_1"
+	},
+	{
+		"id": 53,
+		"title" : "Barbaric Gloves",
+		"type" : "Hands",
+		"value" : 54,
+		"stats" : {
+			"damage" : "0",
+			"strength" : 9,
+			"stamina" : 4,
+			"critchance" : 3,
+			"intellect" : 0,
+			"armor" : 0
+		},
+		"description" : "PLACEHOLDER",
+		"stackable" : false,
+		"rarity" : 2,
+		"slug" : "gauntles_2"
+	},
+	{
+		"id": 54,
+		"title" : "Heavy Earthen Gloves",
+		"type" : "Hands",
+		"value" : 98,
+		"stats" : {
+			"damage" : "0",
+			"strength" : 15,
+			"stamina" : 7,
+			"critchance" : 4,
+			"intellect" : 0,
+			"armor" : 0
+		},
+		"description" : "PLACEHOLDER",
+		"stackable" : false,
+		"rarity" : 3,
+		"slug" : "gauntles_3"
+	},
+	{
+		"id": 55,
+		"title" : "Ashen Gloves",
+		"type" : "Hands",
+		"value" : 151,
+		"stats" : {
+			"damage" : "0",
+			"strength" : 19,
+			"stamina" : 11,
+			"critchance" : 5,
+			"intellect" : 0,
+			"armor" : 0
+		},
+		"description" : "PLACEHOLDER",
+		"stackable" : false,
+		"rarity" : 4,
+		"slug" : "gauntles_4"
+	},
+	{
+		"id": 56,
+		"title" : "Toughened Leather Gloves",
+		"type" : "Hands",
+		"value" : 234,
+		"stats" : {
+			"damage" : "0",
+			"strength" : 25,
+			"stamina" : 16,
+			"critchance" : 6,
+			"intellect" : 0,
+			"armor" : 0
+		},
+		"description" : "PLACEHOLDER",
+		"stackable" : false,
+		"rarity" : 5,
+		"slug" : "gauntles_5"
+	},
+	{
+		"id": 57,
+		"title" : "Shadowgem",
+		"type" : "Miscellaneous",
+		"value" : 40,
+		"stats" : {
+			"damage" : "0",
+			"strength" : 0,
+			"stamina" : 0,
+			"critchance" : 0,
+			"intellect" : 0,
+			"armor" : 0
+		},
+		"description" : "Used for various crafting recipes.",
+		"stackable" : true,
+		"rarity" : 1,
+		"slug" : "gem_1"
+	},
+	{
+		"id": 58,
+		"title" : "Sapphire Crystal",
+		"type" : "Miscellaneous",
+		"value" : 46,
+		"stats" : {
+			"damage" : "0",
+			"strength" : 0,
+			"stamina" : 0,
+			"critchance" : 0,
+			"intellect" : 0,
+			"armor" : 0
+		},
+		"description" : "PLACEHOLDER",
+		"stackable" : true,
+		"rarity" : 1,
+		"slug" : "gem_2"
+	},
+	{
+		"id": 59,
+		"title" : "Ruby Crystal",
+		"type" : "Miscellaneous",
+		"value" : 52,
+		"stats" : {
+			"damage" : "0",
+			"strength" : 0,
+			"stamina" : 0,
+			"critchance" : 0,
+			"intellect" : 0,
+			"armor" : 0
+		},
+		"description" : "PLACEHOLDER",
+		"stackable" : true,
+		"rarity" : 1,
+		"slug" : "gem_3"
+	},
+	{
+		"id": 60,
+		"title" : "Ice Crystal",
+		"type" : "Miscellaneous",
+		"value" : 47,
+		"stats" : {
+			"damage" : "0",
+			"strength" : 0,
+			"stamina" : 0,
+			"critchance" : 0,
+			"intellect" : 0,
+			"armor" : 0
+		},
+		"description" : "PLACEHOLDER",
+		"stackable" : true,
+		"rarity" : 1,
+		"slug" : "gem_4"
+	},
+	{
+		"id": 61,
+		"title" : "Bloodgem",
+		"type" : "Miscellaneous",
+		"value" : 41,
+		"stats" : {
+			"damage" : "0",
+			"strength" : 0,
+			"stamina" : 0,
+			"critchance" : 0,
+			"intellect" : 0,
+			"armor" : 0
+		},
+		"description" : "PLACEHOLDER",
+		"stackable" : true,
+		"rarity" : 1,
+		"slug" : "gem_5"
+	},
+	{
+		"id": 62,
+		"title" : "Singing Blue Crystal",
+		"type" : "Miscellaneous",
+		"value" : 78,
+		"stats" : {
+			"damage" : "0",
+			"strength" : 0,
+			"stamina" : 0,
+			"critchance" : 0,
+			"intellect" : 0,
+			"armor" : 0
+		},
+		"description" : "PLACEHOLDER",
+		"stackable" : true,
+		"rarity" : 1,
+		"slug" : "gem_6"
+	},
+	{
+		"id": 63,
+		"title" : "Unstable Crystal",
+		"type" : "Miscellaneous",
+		"value" : 134,
+		"stats" : {
+			"damage" : "0",
+			"strength" : 0,
+			"stamina" : 0,
+			"critchance" : 0,
+			"intellect" : 0,
+			"armor" : 0
+		},
+		"description" : "PLACEHOLDER",
+		"stackable" : true,
+		"rarity" : 1,
+		"slug" : "gem_7"
+	},
+	{
+		"id": 64,
+		"title" : "Dwarf Head",
+		"type" : "Charm",
+		"value" : 200,
+		"stats" : {
+			"damage" : "0",
+			"strength" : 10,
+			"stamina" : 5,
+			"critchance" : 0,
+			"intellect" : 0,
+			"armor" : 0
+		},
+		"description" : "PLACEHOLDER",
+		"stackable" : false,
+		"rarity" : 5,
+		"slug" : "head_1"
+	},
+	{
+		"id": 65,
+		"title" : "Centaur Head",
+		"type" : "Charm",
+		"value" : 200,
+		"stats" : {
+			"damage" : "0",
+			"strength" : 0,
+			"stamina" : 0,
+			"critchance" : 5,
+			"intellect" : 0,
+			"armor" : 0
+		},
+		"description" : "PLACEHOLDER",
+		"stackable" : false,
+		"rarity" : 5,
+		"slug" : "head_2"
+	},
+	{
+		"id": 66,
+		"title" : "Gnoll Head",
+		"type" : "Charm",
+		"value" : 200,
+		"stats" : {
+			"damage" : "0",
+			"strength" : 5,
+			"stamina" : 5,
+			"critchance" : 2,
+			"intellect" : 0,
+			"armor" : 0
+		},
+		"description" : "PLACEHOLDER",
+		"stackable" : false,
+		"rarity" : 5,
+		"slug" : "head_3"
+	},
+	{
+		"id": 67,
+		"title" : "Human Head",
+		"type" : "Charm",
+		"value" : 200,
+		"stats" : {
+			"damage" : "0",
+			"strength" : 5,
+			"stamina" : 10,
+			"critchance" : 0,
+			"intellect" : 0,
+			"armor" : 0
+		},
+		"description" : "PLACEHOLDER",
+		"stackable" : false,
+		"rarity" : 5,
+		"slug" : "head_4"
+	},
+	{
+		"id": 68,
+		"title" : "Orc Head",
+		"type" : "Charm",
+		"value" : 200,
+		"stats" : {
+			"damage" : "0",
+			"strength" : 15,
+			"stamina" : 0,
+			"critchance" : 0,
+			"intellect" : 0,
+			"armor" : 0
+		},
+		"description" : "PLACEHOLDER",
+		"stackable" : false,
+		"rarity" : 5,
+		"slug" : "head_5"
+	},
+	{
+		"id": 69,
+		"title" : "Undead Head",
+		"type" : "Charm",
+		"value" : 200,
+		"stats" : {
+			"damage" : "0",
+			"strength" : 0,
+			"stamina" : 15,
+			"critchance" : 0,
+			"intellect" : 0,
+			"armor" : 0
+		},
+		"description" : "PLACEHOLDER",
+		"stackable" : false,
+		"rarity" : 5,
+		"slug" : "head_6"
+	},
+	{
+		"id": 70,
+		"title" : "Headguard of Solace",
+		"type" : "Head",
+		"value" : 56,
+		"stats" : {
+			"damage" : "0",
+			"strength" : 8,
+			"stamina" : 8,
+			"critchance" : 2,
+			"intellect" : 0,
+			"armor" : 0
+		},
+		"description" : "PLACEHOLDER",
+		"stackable" : false,
+		"rarity" : 1,
+		"slug" : "helm_1"
+	},
+	{
+		"id": 71,
+		"title" : "Ringed Helm",
+		"type" : "Head",
+		"value" : 108,
+		"stats" : {
+			"damage" : "0",
+			"strength" : 15,
+			"stamina" : 14,
+			"critchance" : 3,
+			"intellect" : 0,
+			"armor" : 0
+		},
+		"description" : "PLACEHOLDER",
+		"stackable" : false,
+		"rarity" : 2,
+		"slug" : "helm_2"
+	},
+	{
+		"id": 72,
+		"title" : "Reinforced Leather Helm",
+		"type" : "Head",
+		"value" : 162,
+		"stats" : {
+			"damage" : "0",
+			"strength" : 19,
+			"stamina" : 20,
+			"critchance" : 4,
+			"intellect" : 0,
+			"armor" : 0
+		},
+		"description" : "PLACEHOLDER",
+		"stackable" : false,
+		"rarity" : 3,
+		"slug" : "helm_3"
+	},
+	{
+		"id": 73,
+		"title" : "Horned Leather Helm",
+		"type" : "Head",
+		"value" : 244,
+		"stats" : {
+			"damage" : "0",
+			"strength" : 24,
+			"stamina" : 23,
+			"critchance" : 5,
+			"intellect" : 0,
+			"armor" : 0
+		},
+		"description" : "PLACEHOLDER",
+		"stackable" : false,
+		"rarity" : 4,
+		"slug" : "helm_4"
+	},
+	{
+		"id": 74,
+		"title" : "Heraldic Headpiece",
+		"type" : "Head",
+		"value" : 314,
+		"stats" : {
+			"damage" : "0",
+			"strength" : 27,
+			"stamina" : 24,
+			"critchance" : 6,
+			"intellect" : 0,
+			"armor" : 0
+		},
+		"description" : "PLACEHOLDER",
+		"stackable" : false,
+		"rarity" : 6,
+		"slug" : "helm_5"
+	},
+	{
+		"id": 75,
+		"title" : "Earthroot",
+		"type" : "Herb",
+		"value" : 16,
+		"stats" : {
+			"damage" : "0",
+			"strength" : 0,
+			"stamina" : 0,
+			"critchance" : 0,
+			"intellect" : 0,
+			"armor" : 0
+		},
+		"description" : "PLACEHOLDER",
+		"stackable" : true,
+		"rarity" : 1,
+		"slug" : "herb_1"
+	},
+	{
+		"id": 76,
+		"title" : "Silverleaf",
+		"type" : "Herb",
+		"value" : 15,
+		"stats" : {
+			"damage" : "0",
+			"strength" : 0,
+			"stamina" : 0,
+			"critchance" : 0,
+			"intellect" : 0,
+			"armor" : 0
+		},
+		"description" : "PLACEHOLDER",
+		"stackable" : true,
+		"rarity" : 1,
+		"slug" : "herb_2"
+	},
+	{
+		"id": 77,
+		"title" : "Bruiseweed",
+		"type" : "Herb",
+		"value" : 19,
+		"stats" : {
+			"damage" : "0",
+			"strength" : 0,
+			"stamina" : 0,
+			"critchance" : 0,
+			"intellect" : 0,
+			"armor" : 0
+		},
+		"description" : "PLACEHOLDER",
+		"stackable" : true,
+		"rarity" : 1,
+		"slug" : "herb_3"
+	},
+	{
+		"id": 78,
+		"title" : "Arthas' Tears",
+		"type" : "Herb",
+		"value" : 31,
+		"stats" : {
+			"damage" : "0",
+			"strength" : 0,
+			"stamina" : 0,
+			"critchance" : 0,
+			"intellect" : 0,
+			"armor" : 0
+		},
+		"description" : "PLACEHOLDER",
+		"stackable" : true,
+		"rarity" : 1,
+		"slug" : "herb_4"
+	},
+	{
+		"id": 79,
+		"title" : "Lichbloom",
+		"type" : "Herb",
+		"value" : 24,
+		"stats" : {
+			"damage" : "0",
+			"strength" : 0,
+			"stamina" : 0,
+			"critchance" : 0,
+			"intellect" : 0,
+			"armor" : 0
+		},
+		"description" : "PLACEHOLDER",
+		"stackable" : true,
+		"rarity" : 1,
+		"slug" : "herb_5"
+	},
+	{
+		"id": 80,
+		"title" : "Golden Lotus",
+		"type" : "Herb",
+		"value" : 72,
+		"stats" : {
+			"damage" : "0",
+			"strength" : 0,
+			"stamina" : 0,
+			"critchance" : 0,
+			"intellect" : 0,
+			"armor" : 0
+		},
+		"description" : "PLACEHOLDER",
+		"stackable" : true,
+		"rarity" : 1,
+		"slug" : "herb_6"
+	},
+	{
+		"id": 81,
+		"title" : "Netherbloom",
+		"type" : "Herb",
+		"value" : 45,
+		"stats" : {
+			"damage" : "0",
+			"strength" : 0,
+			"stamina" : 0,
+			"critchance" : 0,
+			"intellect" : 0,
+			"armor" : 0
+		},
+		"description" : "PLACEHOLDER",
+		"stackable" : true,
+		"rarity" : 1,
+		"slug" : "herb_7"
+	},
+	{
+		"id": 82,
+		"title" : "Gromsblood",
+		"type" : "Herb",
+		"value" : 29,
+		"stats" : {
+			"damage" : "0",
+			"strength" : 0,
+			"stamina" : 0,
+			"critchance" : 0,
+			"intellect" : 0,
+			"armor" : 0
+		},
+		"description" : "PLACEHOLDER",
+		"stackable" : true,
+		"rarity" : 1,
+		"slug" : "herb_8"
+	},
+	{
+		"id": 83,
+		"title" : "Lifegrass",
+		"type" : "Herb",
+		"value" : 11,
+		"stats" : {
+			"damage" : "0",
+			"strength" : 0,
+			"stamina" : 0,
+			"critchance" : 0,
+			"intellect" : 0,
+			"armor" : 0
+		},
+		"description" : "PLACEHOLDER",
+		"stackable" : true,
+		"rarity" : 1,
+		"slug" : "herb_9"
+	},
+	{
+		"id": 84,
+		"title" : "Fadeleaf",
+		"type" : "Herb",
+		"value" : 33,
+		"stats" : {
+			"damage" : "0",
+			"strength" : 0,
+			"stamina" : 0,
+			"critchance" : 0,
+			"intellect" : 0,
+			"armor" : 0
+		},
+		"description" : "PLACEHOLDER",
+		"stackable" : true,
+		"rarity" : 1,
+		"slug" : "herb_10"
+	},
+	{
+		"id": 85,
+		"title" : "Copper Ingot",
+		"type" : "Miscellaneous",
+		"value" : 40,
+		"stats" : {
+			"damage" : "0",
+			"strength" : 0,
+			"stamina" : 0,
+			"critchance" : 0,
+			"intellect" : 0,
+			"armor" : 0
+		},
+		"description" : "PLACEHOLDER",
+		"stackable" : true,
+		"rarity" : 1,
+		"slug" : "ingot_copper"
+	},
+	{
+		"id": 86,
+		"title" : "Gold Ingot",
+		"type" : "Miscellaneous",
+		"value" : 120,
+		"stats" : {
+			"damage" : "0",
+			"strength" : 0,
+			"stamina" : 0,
+			"critchance" : 0,
+			"intellect" : 0,
+			"armor" : 0
+		},
+		"description" : "PLACEHOLDER",
+		"stackable" : true,
+		"rarity" : 1,
+		"slug" : "ingot_gold"
+	},
+	{
+		"id": 87,
+		"title" : "Silver Ingot",
+		"type" : "Miscellaneous",
+		"value" : 70,
+		"stats" : {
+			"damage" : "0",
+			"strength" : 0,
+			"stamina" : 0,
+			"critchance" : 0,
+			"intellect" : 0,
+			"armor" : 0
+		},
+		"description" : "PLACEHOLDER",
+		"stackable" : true,
+		"rarity" : 1,
+		"slug" : "ingot_silver"
+	},
+	{
+		"id": 88,
+		"title" : "Strand of the Stars",
+		"type" : "Amulet",
+		"value" : 142,
+		"stats" : {
+			"damage" : "0",
+			"strength" : 14,
+			"stamina" : 4,
+			"critchance" : 3,
+			"intellect" : 0,
+			"armor" : 0
+		},
+		"description" : "PLACEHOLDER",
+		"stackable" : false,
+		"rarity" : 2,
+		"slug" : "jewel_amulet_1"
+	},
+	{
+		"id": 89,
+		"title" : "The Golden Lion",
+		"type" : "Amulet",
+		"value" : 129,
+		"stats" : {
+			"damage" : "0",
+			"strength" : 2,
+			"stamina" : 18,
+			"critchance" : 4,
+			"intellect" : 0,
+			"armor" : 0
+		},
+		"description" : "PLACEHOLDER",
+		"stackable" : false,
+		"rarity" : 3,
+		"slug" : "jewel_amulet_2"
+	},
+	{
+		"id": 90,
+		"title" : "Raven Pendant",
+		"type" : "Amulet",
+		"value" : 153,
+		"stats" : {
+			"damage" : "0",
+			"strength" : 5,
+			"stamina" : 4,
+			"critchance" : 5,
+			"intellect" : 0,
+			"armor" : 0
+		},
+		"description" : "PLACEHOLDER",
+		"stackable" : false,
+		"rarity" : 4,
+		"slug" : "jewel_amulet_3"
+	},
+	{
+		"id": 91,
+		"title" : "Brooch of the Astral Scryer",
+		"type" : "Necklace",
+		"value" : 295,
+		"stats" : {
+			"damage" : "0",
+			"strength" : 8,
+			"stamina" : 8,
+			"critchance" : 6,
+			"intellect" : 0,
+			"armor" : 0
+		},
+		"description" : "PLACEHOLDER",
+		"stackable" : false,
+		"rarity" : 5,
+		"slug" : "jewel_necklace_1"
+	},
+	{
+		"id": 92,
+		"title" : "Zealous Timestone Pendant",
+		"type" : "Necklace",
+		"value" : 146,
+		"stats" : {
+			"damage" : "0",
+			"strength" : 15,
+			"stamina" : 4,
+			"critchance" : 3,
+			"intellect" : 0,
+			"armor" : 0
+		},
+		"description" : "PLACEHOLDER",
+		"stackable" : false,
+		"rarity" : 3,
+		"slug" : "jewel_necklace_2"
+	},
+	{
+		"id": 93,
+		"title" : "Radiant String of Scorpid Eyes",
+		"type" : "Necklace",
+		"value" : 174,
+		"stats" : {
+			"damage" : "0",
+			"strength" : 11,
+			"stamina" : 16,
+			"critchance" : 2,
+			"intellect" : 0,
+			"armor" : 0
+		},
+		"description" : "PLACEHOLDER",
+		"stackable" : false,
+		"rarity" : 3,
+		"slug" : "jewel_necklace_3"
+	},
+	{
+		"id": 94,
+		"title" : "Gem Studded Band",
+		"type" : "Ring",
+		"value" : 77,
+		"stats" : {
+			"damage" : "0",
+			"strength" : 6,
+			"stamina" : 4,
+			"critchance" : 2,
+			"intellect" : 0,
+			"armor" : 0
+		},
+		"description" : "PLACEHOLDER",
+		"stackable" : false,
+		"rarity" : 2,
+		"slug" : "jewel_ring_1"
+	},
+	{
+		"id": 95,
+		"title" : "Flawless Diamond Solitaire",
+		"type" : "Ring",
+		"value" : 173,
+		"stats" : {
+			"damage" : "0",
+			"strength" : 10,
+			"stamina" : 14,
+			"critchance" : 4,
+			"intellect" : 0,
+			"armor" : 0
+		},
+		"description" : "PLACEHOLDER",
+		"stackable" : false,
+		"rarity" : 4,
+		"slug" : "jewel_ring_2"
+	},
+	{
+		"id": 96,
+		"title" : "Brainlash",
+		"type" : "Ring",
+		"value" : 236,
+		"stats" : {
+			"damage" : "0",
+			"strength" : 14,
+			"stamina" : 12,
+			"critchance" : 6,
+			"intellect" : 0,
+			"armor" : 0
+		},
+		"description" : "PLACEHOLDER",
+		"stackable" : false,
+		"rarity" : 5,
+		"slug" : "jewel_ring_3"
+	},
+	{
+		"id": 97,
+		"title" : "Silver Key",
+		"type" : "Miscellaneous",
+		"value" : 25,
+		"stats" : {
+			"damage" : "0",
+			"strength" : 0,
+			"stamina" : 0,
+			"critchance" : 0,
+			"intellect" : 0,
+			"armor" : 0
+		},
+		"description" : "PLACEHOLDER",
+		"stackable" : true,
+		"rarity" : 1,
+		"slug" : "key_1"
+	},
+	{
+		"id": 98,
+		"title" : "Crescent Key",
+		"type" : "Miscellaneous",
+		"value" : 19,
+		"stats" : {
+			"damage" : "0",
+			"strength" : 0,
+			"stamina" : 0,
+			"critchance" : 0,
+			"intellect" : 0,
+			"armor" : 0
+		},
+		"description" : "PLACEHOLDER",
+		"stackable" : true,
+		"rarity" : 1,
+		"slug" : "key_2"
+	},
+	{
+		"id": 99,
+		"title" : "An Old Key",
+		"type" : "Miscellaneous",
+		"value" : 4,
+		"stats" : {
+			"damage" : "0",
+			"strength" : 0,
+			"stamina" : 0,
+			"critchance" : 0,
+			"intellect" : 0,
+			"armor" : 0
+		},
+		"description" : "PLACEHOLDER",
+		"stackable" : true,
+		"rarity" : 1,
+		"slug" : "key_3"
+	},
+	{
+		"id": 100,
+		"title" : "Letter",
+		"type" : "Miscellaneous",
+		"value" : 12,
+		"stats" : {
+			"damage" : "0",
+			"strength" : 0,
+			"stamina" : 0,
+			"critchance" : 0,
+			"intellect" : 0,
+			"armor" : 0
+		},
+		"description" : "PLACEHOLDER",
+		"stackable" : true,
+		"rarity" : 1,
+		"slug" : "letter_1"
+	},
+	{
+		"id": 101,
+		"title" : "Stained Letter",
+		"type" : "Miscellaneous",
+		"value" : 18,
+		"stats" : {
+			"damage" : "0",
+			"strength" : 0,
+			"stamina" : 0,
+			"critchance" : 0,
+			"intellect" : 0,
+			"armor" : 0
+		},
+		"description" : "PLACEHOLDER",
+		"stackable" : true,
+		"rarity" : 1,
+		"slug" : "letter_2"
+	},
+	{
+		"id": 102,
+		"title" : "Envelope",
+		"type" : "Miscellaneous",
+		"value" : 10,
+		"stats" : {
+			"damage" : "0",
+			"strength" : 0,
+			"stamina" : 0,
+			"critchance" : 0,
+			"intellect" : 0,
+			"armor" : 0
+		},
+		"description" : "PLACEHOLDER",
+		"stackable" : true,
+		"rarity" : 1,
+		"slug" : "letter_3"
+	},
+	{
+		"id": 103,
+		"title" : "Human Ear",
+		"type" : "Charm",
+		"value" : 100,
+		"stats" : {
+			"damage" : "0",
+			"strength" : 10,
+			"stamina" : 0,
+			"critchance" : 0,
+			"intellect" : 0,
+			"armor" : 0
+		},
+		"description" : "PLACEHOLDER",
+		"stackable" : false,
+		"rarity" : 5,
+		"slug" : "misc_ear_1"
+	},
+	{
+		"id": 104,
+		"title" : "Gnoll Ear",
+		"type" : "Charm",
+		"value" : 100,
+		"stats" : {
+			"damage" : "0",
+			"strength" : 0,
+			"stamina" : 10,
+			"critchance" : 0,
+			"intellect" : 0,
+			"armor" : 0
+		},
+		"description" : "PLACEHOLDER",
+		"stackable" : false,
+		"rarity" : 5,
+		"slug" : "misc_ear_2"
+	},
+	{
+		"id": 105,
+		"title" : "Elven Ear",
+		"type" : "Charm",
+		"value" : 100,
+		"stats" : {
+			"damage" : "0",
+			"strength" : 0,
+			"stamina" : 0,
+			"critchance" : 5,
+			"intellect" : 0,
+			"armor" : 0
+		},
+		"description" : "PLACEHOLDER",
+		"stackable" : false,
+		"rarity" : 5,
+		"slug" : "misc_ear_3"
+	},
+	{
+		"id": 106,
+		"title" : "Eyeball",
+		"type" : "Charm",
+		"value" : 50,
+		"stats" : {
+			"damage" : "0",
+			"strength" : 2,
+			"stamina" : 2,
+			"critchance" : 2,
+			"intellect" : 0,
+			"armor" : 0
+		},
+		"description" : "PLACEHOLDER",
+		"stackable" : false,
+		"rarity" : 3,
+		"slug" : "misc_eye_1"
+	},
+	{
+		"id": 107,
+		"title" : "Tattoed Eyeball",
+		"type" : "Charm",
+		"value" : 80,
+		"stats" : {
+			"damage" : "0",
+			"strength" : 4,
+			"stamina" : 4,
+			"critchance" : 4,
+			"intellect" : 0,
+			"armor" : 0
+		},
+		"description" : "PLACEHOLDER",
+		"stackable" : false,
+		"rarity" : 4,
+		"slug" : "misc_eye_2"
+	},
+	{
+		"id": 108,
+		"title" : "Darkened Eyeball",
+		"type" : "Charm",
+		"value" : 120,
+		"stats" : {
+			"damage" : "0",
+			"strength" : 7,
+			"stamina" : 7,
+			"critchance" : 4,
+			"intellect" : 0,
+			"armor" : 0
+		},
+		"description" : "PLACEHOLDER",
+		"stackable" : false,
+		"rarity" : 5,
+		"slug" : "misc_eye_3"
+	},
+	{
+		"id": 109,
+		"title" : "Sharp Claw",
+		"type" : "Miscellaneous",
+		"value" : 24,
+		"stats" : {
+			"damage" : "0",
+			"strength" : 0,
+			"stamina" : 0,
+			"critchance" : 0,
+			"intellect" : 0,
+			"armor" : 0
+		},
+		"description" : "PLACEHOLDER",
+		"stackable" : true,
+		"rarity" : 1,
+		"slug" : "monsterbody_claw_1"
+	},
+	{
+		"id": 110,
+		"title" : "Monstrous Claw",
+		"type" : "Miscellaneous",
+		"value" : 28,
+		"stats" : {
+			"damage" : "0",
+			"strength" : 0,
+			"stamina" : 0,
+			"critchance" : 0,
+			"intellect" : 0,
+			"armor" : 0
+		},
+		"description" : "PLACEHOLDER",
+		"stackable" : true,
+		"rarity" : 1,
+		"slug" : "monsterbody_claw_2"
+	},
+	{
+		"id": 111,
+		"title" : "Ravager Claw",
+		"type" : "Miscellaneous",
+		"value" : 23,
+		"stats" : {
+			"damage" : "0",
+			"strength" : 0,
+			"stamina" : 0,
+			"critchance" : 0,
+			"intellect" : 0,
+			"armor" : 0
+		},
+		"description" : "PLACEHOLDER",
+		"stackable" : true,
+		"rarity" : 1,
+		"slug" : "monsterbody_claw_3"
+	},
+	{
+		"id": 112,
+		"title" : "Animal Fangs",
+		"type" : "Miscellaneous",
+		"value" : 43,
+		"stats" : {
+			"damage" : "0",
+			"strength" : 0,
+			"stamina" : 0,
+			"critchance" : 0,
+			"intellect" : 0,
+			"armor" : 0
+		},
+		"description" : "PLACEHOLDER",
+		"stackable" : true,
+		"rarity" : 1,
+		"slug" : "monsterbody_fangs"
+	},
+	{
+		"id": 113,
+		"title" : "Naga Scale",
+		"type" : "Miscellaneous",
+		"value" : 56,
+		"stats" : {
+			"damage" : "0",
+			"strength" : 0,
+			"stamina" : 0,
+			"critchance" : 0,
+			"intellect" : 0,
+			"armor" : 0
+		},
+		"description" : "PLACEHOLDER",
+		"stackable" : true,
+		"rarity" : 1,
+		"slug" : "monsterbody_scale_1"
+	},
+	{
+		"id": 114,
+		"title" : "Scorpid Scale",
+		"type" : "Miscellaneous",
+		"value" : 44,
+		"stats" : {
+			"damage" : "0",
+			"strength" : 0,
+			"stamina" : 0,
+			"critchance" : 0,
+			"intellect" : 0,
+			"armor" : 0
+		},
+		"description" : "PLACEHOLDER",
+		"stackable" : true,
+		"rarity" : 1,
+		"slug" : "monsterbody_scale_2"
+	},
+	{
+		"id": 115,
+		"title" : "Cobra Scale",
+		"type" : "Miscellaneous",
+		"value" : 49,
+		"stats" : {
+			"damage" : "0",
+			"strength" : 0,
+			"stamina" : 0,
+			"critchance" : 0,
+			"intellect" : 0,
+			"armor" : 0
+		},
+		"description" : "PLACEHOLDER",
+		"stackable" : true,
+		"rarity" : 1,
+		"slug" : "monsterbody_scale_3"
+	},
+	{
+		"id": 116,
+		"title" : "Firelizard Tail",
+		"type" : "Miscellaneous",
+		"value" : 85,
+		"stats" : {
+			"damage" : "0",
+			"strength" : 0,
+			"stamina" : 0,
+			"critchance" : 0,
+			"intellect" : 0,
+			"armor" : 0
+		},
+		"description" : "PLACEHOLDER",
+		"stackable" : true,
+		"rarity" : 1,
+		"slug" : "monsterbody_tail_1"
+	},
+	{
+		"id": 117,
+		"title" : "Lizard Tail",
+		"type" : "Miscellaneous",
+		"value" : 65,
+		"stats" : {
+			"damage" : "0",
+			"strength" : 0,
+			"stamina" : 0,
+			"critchance" : 0,
+			"intellect" : 0,
+			"armor" : 0
+		},
+		"description" : "PLACEHOLDER",
+		"stackable" : true,
+		"rarity" : 1,
+		"slug" : "monsterbody_tail_2"
+	},
+	{
+		"id": 118,
+		"title" : "Dried Mushroom Rations",
+		"type" : "Food",
+		"value" : 8,
+		"stats" : {
+			"damage" : "0",
+			"strength" : 0,
+			"stamina" : 0,
+			"critchance" : 0,
+			"intellect" : 0,
+			"armor" : 0
+		},
+		"description" : "PLACEHOLDER",
+		"stackable" : true,
+		"rarity" : 1,
+		"slug" : "mushroom_1"
+	},
+	{
+		"id": 119,
+		"title" : "Drycap Mushroom",
+		"type" : "Food",
+		"value" : 15,
+		"stats" : {
+			"damage" : "0",
+			"strength" : 0,
+			"stamina" : 0,
+			"critchance" : 0,
+			"intellect" : 0,
+			"armor" : 0
+		},
+		"description" : "PLACEHOLDER",
+		"stackable" : true,
+		"rarity" : 1,
+		"slug" : "mushroom_2"
+	},
+	{
+		"id": 120,
+		"title" : "Magic Mushroom",
+		"type" : "Food",
+		"value" : 41,
+		"stats" : {
+			"damage" : "0",
+			"strength" : 0,
+			"stamina" : 0,
+			"critchance" : 0,
+			"intellect" : 0,
+			"armor" : 0
+		},
+		"description" : "PLACEHOLDER",
+		"stackable" : true,
+		"rarity" : 1,
+		"slug" : "mushroom_3"
+	},
+	{
+		"id": 121,
+		"title" : "Pyrite Ore",
+		"type" : "Ore",
+		"value" : 87,
+		"stats" : {
+			"damage" : "0",
+			"strength" : 0,
+			"stamina" : 0,
+			"critchance" : 0,
+			"intellect" : 0,
+			"armor" : 0
+		},
+		"description" : "PLACEHOLDER",
+		"stackable" : true,
+		"rarity" : 1,
+		"slug" : "ores_1"
+	},
+	{
+		"id": 122,
+		"title" : "Copper Ore",
+		"type" : "Ore",
+		"value" : 20,
+		"stats" : {
+			"damage" : "0",
+			"strength" : 0,
+			"stamina" : 0,
+			"critchance" : 0,
+			"intellect" : 0,
+			"armor" : 0
+		},
+		"description" : "PLACEHOLDER",
+		"stackable" : true,
+		"rarity" : 1,
+		"slug" : "ores_2"
+	},
+	{
+		"id": 123,
+		"title" : "Gold Ore",
+		"type" : "Ore",
+		"value" : 60,
+		"stats" : {
+			"damage" : "0",
+			"strength" : 0,
+			"stamina" : 0,
+			"critchance" : 0,
+			"intellect" : 0,
+			"armor" : 0
+		},
+		"description" : "PLACEHOLDER",
+		"stackable" : true,
+		"rarity" : 1,
+		"slug" : "ores_3"
+	},
+	{
+		"id": 124,
+		"title" : "Tin Ore",
+		"type" : "Ore",
+		"value" : 40,
+		"stats" : {
+			"damage" : "0",
+			"strength" : 0,
+			"stamina" : 0,
+			"critchance" : 0,
+			"intellect" : 0,
+			"armor" : 0
+		},
+		"description" : "PLACEHOLDER",
+		"stackable" : true,
+		"rarity" : 1,
+		"slug" : "ores_4"
+	},
+	{
+		"id": 125,
+		"title" : "Thorium Ore",
+		"type" : "Ore",
+		"value" : 50,
+		"stats" : {
+			"damage" : "0",
+			"strength" : 0,
+			"stamina" : 0,
+			"critchance" : 0,
+			"intellect" : 0,
+			"armor" : 0
+		},
+		"description" : "PLACEHOLDER",
+		"stackable" : true,
+		"rarity" : 1,
+		"slug" : "ores_5"
+	},
+	{
+		"id": 126,
+		"title" : "Brain",
+		"type" : "Miscellaneous",
+		"value" : 38,
+		"stats" : {
+			"damage" : "0",
+			"strength" : 0,
+			"stamina" : 0,
+			"critchance" : 0,
+			"intellect" : 0,
+			"armor" : 0
+		},
+		"description" : "PLACEHOLDER",
+		"stackable" : true,
+		"rarity" : 1,
+		"slug" : "organ_brain"
+	},
+	{
+		"id": 127,
+		"title" : "Heart",
+		"type" : "Miscellaneous",
+		"value" : 47,
+		"stats" : {
+			"damage" : "0",
+			"strength" : 0,
+			"stamina" : 0,
+			"critchance" : 0,
+			"intellect" : 0,
+			"armor" : 0
+		},
+		"description" : "PLACEHOLDER",
+		"stackable" : true,
+		"rarity" : 1,
+		"slug" : "organ_heart"
+	},
+	{
+		"id": 128,
+		"title" : "Intestines",
+		"type" : "Miscellaneous",
+		"value" : 24,
+		"stats" : {
+			"damage" : "0",
+			"strength" : 0,
+			"stamina" : 0,
+			"critchance" : 0,
+			"intellect" : 0,
+			"armor" : 0
+		},
+		"description" : "PLACEHOLDER",
+		"stackable" : true,
+		"rarity" : 1,
+		"slug" : "organ_intestine"
+	},
+	{
+		"id": 129,
+		"title" : "Stomach",
+		"type" : "Miscellaneous",
+		"value" : 37,
+		"stats" : {
+			"damage" : "0",
+			"strength" : 0,
+			"stamina" : 0,
+			"critchance" : 0,
+			"intellect" : 0,
+			"armor" : 0
+		},
+		"description" : "PLACEHOLDER",
+		"stackable" : true,
+		"rarity" : 1,
+		"slug" : "organ_kidney"
+	},
+	{
+		"id": 130,
+		"title" : "Preened Wildfeather Leggings",
+		"type" : "Legs",
+		"value" : 74,
+		"stats" : {
+			"damage" : "0",
+			"strength" : 4,
+			"stamina" : 8,
+			"critchance" : 3,
+			"intellect" : 0,
+			"armor" : 0
+		},
+		"description" : "PLACEHOLDER",
+		"stackable" : false,
+		"rarity" : 1,
+		"slug" : "pants_1"
+	},
+	{
+		"id": 131,
+		"title" : "Faldir's Leggings",
+		"type" : "Legs",
+		"value" : 141,
+		"stats" : {
+			"damage" : "0",
+			"strength" : 5,
+			"stamina" : 13,
+			"critchance" : 4,
+			"intellect" : 0,
+			"armor" : 0
+		},
+		"description" : "PLACEHOLDER",
+		"stackable" : false,
+		"rarity" : 2,
+		"slug" : "pants_2"
+	},
+	{
+		"id": 132,
+		"title" : "Dark Leather Pants",
+		"type" : "Legs",
+		"value" : 188,
+		"stats" : {
+			"damage" : "0",
+			"strength" : 8,
+			"stamina" : 16,
+			"critchance" : 5,
+			"intellect" : 0,
+			"armor" : 0
+		},
+		"description" : "PLACEHOLDER",
+		"stackable" : false,
+		"rarity" : 3,
+		"slug" : "pants_3"
+	},
+	{
+		"id": 133,
+		"title" : "Slayer's Legguards",
+		"type" : "Legs",
+		"value" : 253,
+		"stats" : {
+			"damage" : "0",
+			"strength" : 12,
+			"stamina" : 23,
+			"critchance" : 6,
+			"intellect" : 0,
+			"armor" : 0
+		},
+		"description" : "PLACEHOLDER",
+		"stackable" : false,
+		"rarity" : 4,
+		"slug" : "pants_4"
+	},
+	{
+		"id": 134,
+		"title" : "Wildevar Pants",
+		"type" : "Legs",
+		"value" : 325,
+		"stats" : {
+			"damage" : "0",
+			"strength" : 15,
+			"stamina" : 28,
+			"critchance" : 7,
+			"intellect" : 0,
+			"armor" : 0
+		},
+		"description" : "PLACEHOLDER",
+		"stackable" : false,
+		"rarity" : 5,
+		"slug" : "pants_5"
+	},
+	{
+		"id": 135,
+		"title" : "Zebra Pelt",
+		"type" : "Miscellaneous",
+		"value" : 43,
+		"stats" : {
+			"damage" : "0",
+			"strength" : 0,
+			"stamina" : 0,
+			"critchance" : 0,
+			"intellect" : 0,
+			"armor" : 0
+		},
+		"description" : "PLACEHOLDER",
+		"stackable" : true,
+		"rarity" : 1,
+		"slug" : "pelt_1"
+	},
+	{
+		"id": 136,
+		"title" : "Bristlefur Pelt",
+		"type" : "Miscellaneous",
+		"value" : 35,
+		"stats" : {
+			"damage" : "0",
+			"strength" : 0,
+			"stamina" : 0,
+			"critchance" : 0,
+			"intellect" : 0,
+			"armor" : 0
+		},
+		"description" : "PLACEHOLDER",
+		"stackable" : true,
+		"rarity" : 1,
+		"slug" : "pelt_2"
+	},
+	{
+		"id": 137,
+		"title" : "Bear Pelt",
+		"type" : "Miscellaneous",
+		"value" : 64,
+		"stats" : {
+			"damage" : "0",
+			"strength" : 0,
+			"stamina" : 0,
+			"critchance" : 0,
+			"intellect" : 0,
+			"armor" : 0
+		},
+		"description" : "PLACEHOLDER",
+		"stackable" : true,
+		"rarity" : 1,
+		"slug" : "pelt_3"
+	},
+	{
+		"id": 138,
+		"title" : "Health Potion",
+		"type" : "Potion",
+		"value" : 10,
+		"stats" : {
+			"damage" : "0",
+			"strength" : 0,
+			"stamina" : 0,
+			"critchance" : 0,
+			"intellect" : 0,
+			"armor" : 0
+		},
+		"description" : "Instantly restores 15% of your health.",
+		"stackable" : true,
+		"rarity" : 1,
+		"slug" : "potion_health"
+	},
+	{
+		"id": 139,
+		"title" : "Mana Potion",
+		"type" : "Potion",
+		"value" : 10,
+		"stats" : {
+			"damage" : "0",
+			"strength" : 0,
+			"stamina" : 0,
+			"critchance" : 0,
+			"intellect" : 0,
+			"armor" : 0
+		},
+		"description" : "Instantly restores 15% of your mana.",
+		"stackable" : true,
+		"rarity" : 1,
+		"slug" : "potion_mana"
+	},
+	{
+		"id": 140,
+		"title" : "Demonic Runestone",
+		"type" : "Miscellaneous",
+		"value" : 133,
+		"stats" : {
+			"damage" : "0",
+			"strength" : 0,
+			"stamina" : 0,
+			"critchance" : 0,
+			"intellect" : 0,
+			"armor" : 0
+		},
+		"description" : "PLACEHOLDER",
+		"stackable" : false,
+		"rarity" : 1,
+		"slug" : "runestone_1"
+	},
+	{
+		"id": 141,
+		"title" : "Hellfire Runestone",
+		"type" : "Miscellaneous",
+		"value" : 147,
+		"stats" : {
+			"damage" : "0",
+			"strength" : 0,
+			"stamina" : 0,
+			"critchance" : 0,
+			"intellect" : 0,
+			"armor" : 0
+		},
+		"description" : "PLACEHOLDER",
+		"stackable" : false,
+		"rarity" : 1,
+		"slug" : "runestone_2"
+	},
+	{
+		"id": 142,
+		"title" : "Empowered Runestone",
+		"type" : "Miscellaneous",
+		"value" : 152,
+		"stats" : {
+			"damage" : "0",
+			"strength" : 0,
+			"stamina" : 0,
+			"critchance" : 0,
+			"intellect" : 0,
+			"armor" : 0
+		},
+		"description" : "PLACEHOLDER",
+		"stackable" : false,
+		"rarity" : 1,
+		"slug" : "runestone_3"
+	},
+	{
+		"id": 143,
+		"title" : "Small Barnacled Clam",
+		"type" : "Miscellaneous",
+		"value" : 17,
+		"stats" : {
+			"damage" : "0",
+			"strength" : 0,
+			"stamina" : 0,
+			"critchance" : 0,
+			"intellect" : 0,
+			"armor" : 0
+		},
+		"description" : "PLACEHOLDER",
+		"stackable" : true,
+		"rarity" : 1,
+		"slug" : "shell_1"
+	},
+	{
+		"id": 144,
+		"title" : "Thick-Shelled Clam",
+		"type" : "Miscellaneous",
+		"value" : 23,
+		"stats" : {
+			"damage" : "0",
+			"strength" : 0,
+			"stamina" : 0,
+			"critchance" :0,
+			"intellect" : 0,
+			"armor" : 0
+		},
+		"description" : "PLACEHOLDER",
+		"stackable" : true,
+		"rarity" : 1,
+		"slug" : "shell_2"
+	},
+	{
+		"id": 145,
+		"title" : "Big-Mouth Clam",
+		"type" : "Miscellaneous",
+		"value" : 25,
+		"stats" : {
+			"damage" : "0",
+			"strength" : 0,
+			"stamina" : 0,
+			"critchance" : 0,
+			"intellect" : 0,
+			"armor" : 0
+		},
+		"description" : "PLACEHOLDER",
+		"stackable" : true,
+		"rarity" : 1,
+		"slug" : "shell_3"
+	},
+	{
+		"id": 146,
+		"title" : "Spiked Shoulders",
+		"type" : "Shoulders",
+		"value" : 71,
+		"stats" : {
+			"damage" : "0",
+			"strength" : 10,
+			"stamina" : 5,
+			"critchance" : 2,
+			"intellect" : 0,
+			"armor" : 0
+		},
+		"description" : "PLACEHOLDER",
+		"stackable" : false,
+		"rarity" : 1,
+		"slug" : "shoulders_1"
+	},
+	{
+		"id": 147,
+		"title" : "Grand Shoulders",
+		"type" : "Shoulders",
+		"value" : 138,
+		"stats" : {
+			"damage" : "0",
+			"strength" : 16,
+			"stamina" : 8,
+			"critchance" : 3,
+			"intellect" : 0,
+			"armor" : 0
+		},
+		"description" : "PLACEHOLDER",
+		"stackable" : false,
+		"rarity" : 2,
+		"slug" : "shoulders_2"
+	},
+	{
+		"id": 148,
+		"title" : "Living Shoulders",
+		"type" : "Shoulders",
+		"value" : 192,
+		"stats" : {
+			"damage" : "0",
+			"strength" : 21,
+			"stamina" : 14,
+			"critchance" : 4,
+			"intellect" : 0,
+			"armor" : 0
+		},
+		"description" : "PLACEHOLDER",
+		"stackable" : false,
+		"rarity" : 3,
+		"slug" : "shoulders_3"
+	},
+	{
+		"id": 149,
+		"title" : "Praetorian Shoulders",
+		"type" : "Shoulders",
+		"value" : 247,
+		"stats" : {
+			"damage" : "0",
+			"strength" : 26,
+			"stamina" : 17,
+			"critchance" : 5,
+			"intellect" : 0,
+			"armor" : 0
+		},
+		"description" : "PLACEHOLDER",
+		"stackable" : false,
+		"rarity" : 4,
+		"slug" : "shoulders_4"
+	},
+	{
+		"id": 150,
+		"title" : "Shadowskin Spaulders",
+		"type" : "Shoulders",
+		"value" : 313,
+		"stats" : {
+			"damage" : "0",
+			"strength" : 32,
+			"stamina" : 20,
+			"critchance" : 6,
+			"intellect" : 0,
+			"armor" : 0
+		},
+		"description" : "PLACEHOLDER",
+		"stackable" : false,
+		"rarity" : 5,
+		"slug" : "shoulders_5"
+	},
+	{
+		"id": 151,
+		"title" : "Rusted Timber Axe",
+		"type" : "One-handed axe",
+		"value" : 76,
+		"stats" : {
+			"damage" : "2-4",
+			"strength" : 5,
+			"stamina" : 1,
+			"critchance" : 3,
+			"intellect" : 0,
+			"armor" : 0
+		},
+		"description" : "PLACEHOLDER",
+		"stackable" : false,
+		"rarity" : 1,
+		"slug" : "weapon_axe_1"
+	},
+	{
+		"id": 152,
+		"title" : "Lion's Maw",
+		"type" : "One-handed axe",
+		"value" : 71,
+		"stats" : {
+			"damage" : "5-7",
+			"strength" : 5,
+			"stamina" : 2,
+			"critchance" : 3,
+			"intellect" : 0,
+			"armor" : 0
+		},
+		"description" : "PLACEHOLDER",
+		"stackable" : false,
+		"rarity" : 1,
+		"slug" : "weapon_axe_2"
+	},
+	{
+		"id": 153,
+		"title" : "Pious Aurastone Hammer",
+		"type" : "One-handed hammer",
+		"value" : 69,
+		"stats" : {
+			"damage" : "3-4",
+			"strength" : 3,
+			"stamina" : 3,
+			"critchance" : 3,
+			"intellect" : 0,
+			"armor" : 0
+		},
+		"description" : "PLACEHOLDER",
+		"stackable" : false,
+		"rarity" : 1,
+		"slug" : "weapon_hammer_1"
+	},
+	{
+		"id": 154,
+		"title" : "Sedai's Blade",
+		"type" : "One-handed sword",
+		"value" : 82,
+		"stats" : {
+			"damage" : "3-10",
+			"strength" : 2,
+			"stamina" : 4,
+			"critchance" : 3,
+			"intellect" : 0,
+			"armor" : 0
+		},
+		"description" : "PLACEHOLDER",
+		"stackable" : false,
+		"rarity" : 1,
+		"slug" : "weapon_knife_1"
+	},
+	{
+		"id": 155,
+		"title" : "Heavy Mace",
+		"type" : "One-handed mace",
+		"value" : 80,
+		"stats" : {
+			"damage" : "2-6",
+			"strength" : 4,
+			"stamina" : 1,
+			"critchance" : 3,
+			"intellect" : 0,
+			"armor" : 0
+		},
+		"description" : "PLACEHOLDER",
+		"stackable" : false,
+		"rarity" : 1,
+		"slug" : "weapon_mace_1"
+	},
+	{
+		"id": 156,
+		"title" : "Orb of Mistery",
+		"type" : "Magic orb",
+		"value" : 96,
+		"stats" : {
+			"damage" : "10-20",
+			"strength" : 3,
+			"stamina" : 3,
+			"critchance" : 4,
+			"intellect" : 0,
+			"armor" : 0
+		},
+		"description" : "PLACEHOLDER",
+		"stackable" : false,
+		"rarity" : 1,
+		"slug" : "weapon_orb_1"
+	},
+	{
+		"id": 157,
+		"title" : "Nighttime",
+		"type" : "One-handed axe",
+		"value" : 125,
+		"stats" : {
+			"damage" : "11-14",
+			"strength" : 5,
+			"stamina" : 4,
+			"critchance" : 4,
+			"intellect" : 0,
+			"armor" : 0
+		},
+		"description" : "PLACEHOLDER",
+		"stackable" : false,
+		"rarity" : 2,
+		"slug" : "weapon_axe_3"
+	},
+	{
+		"id": 158,
+		"title" : "Falric's Wrist-Chopper",
+		"type" : "One-handed axe",
+		"value" : 131,
+		"stats" : {
+			"damage" : "10-13",
+			"strength" : 3,
+			"stamina" : 6,
+			"critchance" : 4,
+			"intellect" : 0,
+			"armor" : 0
+		},
+		"description" : "PLACEHOLDER",
+		"stackable" : false,
+		"rarity" : 2,
+		"slug" : "weapon_axe_4"
+	},
+	{
+		"id": 159,
+		"title" : "Lockjaw",
+		"type" : "One-handed hammer",
+		"value" : 128,
+		"stats" : {
+			"damage" : "10-12",
+			"strength" : 5,
+			"stamina" : 7,
+			"critchance" : 4,
+			"intellect" : 0,
+			"armor" : 0
+		},
+		"description" : "PLACEHOLDER",
+		"stackable" : false,
+		"rarity" : 2,
+		"slug" : "weapon_hammer_2"
+	},
+	{
+		"id": 160,
+		"title" : "Bone Collector Sword",
+		"type" : "One-handed sword",
+		"value" : 117,
+		"stats" : {
+			"damage" : "8-16",
+			"strength" : 4,
+			"stamina" : 5,
+			"critchance" : 4,
+			"intellect" : 0,
+			"armor" : 0
+		},
+		"description" : "PLACEHOLDER",
+		"stackable" : false,
+		"rarity" : 2,
+		"slug" : "weapon_knife_2"
+	},
+	{
+		"id": 161,
+		"title" : "Bonegrinding Pestle",
+		"type" : "One-handed mace",
+		"value" : 123,
+		"stats" : {
+			"damage" : "10-15",
+			"strength" : 6,
+			"stamina" : 2,
+			"critchance" : 4,
+			"intellect" : 0,
+			"armor" : 0
+		},
+		"description" : "PLACEHOLDER",
+		"stackable" : false,
+		"rarity" : 2,
+		"slug" : "weapon_mace_2"
+	},
+	{
+		"id": 162,
+		"title" : "Fiery Orb",
+		"type" : "Magic orb",
+		"value" : 164,
+		"stats" : {
+			"damage" : "40-60",
+			"strength" : 10,
+			"stamina" : 10,
+			"critchance" : 5,
+			"intellect" : 0,
+			"armor" : 0
+		},
+		"description" : "PLACEHOLDER",
+		"stackable" : false,
+		"rarity" : 2,
+		"slug" : "weapon_orb_2"
+	},
+	{
+		"id": 163,
+		"title" : "Touch of Madness",
+		"type" : "One-handed axe",
+		"value" : 181,
+		"stats" : {
+			"damage" : "16-21",
+			"strength" : 10,
+			"stamina" : 2,
+			"critchance" : 5,
+			"intellect" : 0,
+			"armor" : 0
+		},
+		"description" : "PLACEHOLDER",
+		"stackable" : false,
+		"rarity" : 3,
+		"slug" : "weapon_axe_5"
+	},
+	{
+		"id": 164,
+		"title" : "Gladiator Cleaver",
+		"type" : "One-handed axe",
+		"value" : 190,
+		"stats" : {
+			"damage" : "17-24",
+			"strength" : 6,
+			"stamina" : 6,
+			"critchance" : 5,
+			"intellect" : 0,
+			"armor" : 0
+		},
+		"description" : "PLACEHOLDER",
+		"stackable" : false,
+		"rarity" : 3,
+		"slug" : "weapon_axe_6"
+	},
+	{
+		"id": 165,
+		"title" : "The Thumper",
+		"type" : "One-handed hammer",
+		"value" : 193,
+		"stats" : {
+			"damage" : "20-25",
+			"strength" : 10,
+			"stamina" : 5,
+			"critchance" : 5,
+			"intellect" : 0,
+			"armor" : 0
+		},
+		"description" : "PLACEHOLDER",
+		"stackable" : false,
+		"rarity" : 3,
+		"slug" : "weapon_hammer_3"
+	},
+	{
+		"id": 166,
+		"title" : "Runesword",
+		"type" : "One-handed sword",
+		"value" : 186,
+		"stats" : {
+			"damage" : "26-39",
+			"strength" : 5,
+			"stamina" : 9,
+			"critchance" : 5,
+			"intellect" : 0,
+			"armor" : 0
+		},
+		"description" : "PLACEHOLDER",
+		"stackable" : false,
+		"rarity" : 3,
+		"slug" : "weapon_knife_3"
+	},
+	{
+		"id": 167,
+		"title" : "Relios's Mace",
+		"type" : "One-handed mace",
+		"value" : 184,
+		"stats" : {
+			"damage" : "25-36",
+			"strength" : 12,
+			"stamina" : 4,
+			"critchance" : 5,
+			"intellect" : 0,
+			"armor" : 0
+		},
+		"description" : "PLACEHOLDER",
+		"stackable" : false,
+		"rarity" : 3,
+		"slug" : "weapon_mace_3"
+	},
+	{
+		"id": 168,
+		"title" : "Wolvar Handaxe",
+		"type" : "One-handed axe",
+		"value" : 263,
+		"stats" : {
+			"damage" : "35-42",
+			"strength" : 11,
+			"stamina" : 5,
+			"critchance" : 6,
+			"intellect" : 0,
+			"armor" : 0
+		},
+		"description" : "PLACEHOLDER",
+		"stackable" : false,
+		"rarity" : 4,
+		"slug" : "weapon_axe_7"
+	},
+	{
+		"id": 169,
+		"title" : "Netherbane",
+		"type" : "One-handed axe",
+		"value" : 259,
+		"stats" : {
+			"damage" : "33-38",
+			"strength" : 9,
+			"stamina" : 9,
+			"critchance" : 6,
+			"intellect" : 0,
+			"armor" : 0
+		},
+		"description" : "PLACEHOLDER",
+		"stackable" : false,
+		"rarity" : 4,
+		"slug" : "weapon_axe_8"
+	},
+	{
+		"id": 170,
+		"title" : "Compact Hammer",
+		"type" : "One-handed hammer",
+		"value" : 246,
+		"stats" : {
+			"damage" : "34-41",
+			"strength" : 11,
+			"stamina" : 8,
+			"critchance" : 6,
+			"intellect" : 0,
+			"armor" : 0
+		},
+		"description" : "PLACEHOLDER",
+		"stackable" : false,
+		"rarity" : 4,
+		"slug" : "weapon_hammer_4"
+	},
+	{
+		"id": 171,
+		"title" : "Spellfire Longsword",
+		"type" : "One-handed sword",
+		"value" : 268,
+		"stats" : {
+			"damage" : "43-55",
+			"strength" : 7,
+			"stamina" : 14,
+			"critchance" : 6,
+			"intellect" : 0,
+			"armor" : 0
+		},
+		"description" : "PLACEHOLDER",
+		"stackable" : false,
+		"rarity" : 4,
+		"slug" : "weapon_knife_4"
+	},
+	{
+		"id": 172,
+		"title" : "Battlehammer of the Order",
+		"type" : "One-handed mace",
+		"value" : 256,
+		"stats" : {
+			"damage" : "43-63",
+			"strength" : 17,
+			"stamina" : 7,
+			"critchance" : 6,
+			"intellect" : 0,
+			"armor" : 0
+		},
+		"description" : "PLACEHOLDER",
+		"stackable" : false,
+		"rarity" : 4,
+		"slug" : "weapon_mace_4"
+	},
+	{
+		"id": 173,
+		"title" : "Arcane Orb",
+		"type" : "Magic orb",
+		"value" : 342,
+		"stats" : {
+			"damage" : "80-110",
+			"strength" : 14,
+			"stamina" : 14,
+			"critchance" : 7,
+			"intellect" : 0,
+			"armor" : 0
+		},
+		"description" : "PLACEHOLDER",
+		"stackable" : false,
+		"rarity" : 4,
+		"slug" : "weapon_orb_3"
+	},
+	{
+		"id": 174,
+		"title" : "Bone Cleaver",
+		"type" : "One-handed axe",
+		"value" : 379,
+		"stats" : {
+			"damage" : "61-76",
+			"strength" : 16,
+			"stamina" : 11,
+			"critchance" : 7,
+			"intellect" : 0,
+			"armor" : 0
+		},
+		"description" : "PLACEHOLDER",
+		"stackable" : false,
+		"rarity" : 5,
+		"slug" : "weapon_axe_9"
+	},
+	{
+		"id": 175,
+		"title" : "Bloodsmeared Brutalizer",
+		"type" : "One-handed axe",
+		"value" : 395,
+		"stats" : {
+			"damage" : "65-80",
+			"strength" : 12,
+			"stamina" : 19,
+			"critchance" : 7,
+			"intellect" : 0,
+			"armor" : 0
+		},
+		"description" : "PLACEHOLDER",
+		"stackable" : false,
+		"rarity" : 5,
+		"slug" : "weapon_axe_10"
+	},
+	{
+		"id": 176,
+		"title" : "Gnoll Punisher",
+		"type" : "One-handed hammer",
+		"value" : 388,
+		"stats" : {
+			"damage" : "53-64",
+			"strength" : 15,
+			"stamina" : 15,
+			"critchance" : 7,
+			"intellect" : 0,
+			"armor" : 0
+		},
+		"description" : "PLACEHOLDER",
+		"stackable" : false,
+		"rarity" : 5,
+		"slug" : "weapon_hammer_5"
+	},
+	{
+		"id": 177,
+		"title" : "Wraith Blade",
+		"type" : "One-handed sword",
+		"value" : 376,
+		"stats" : {
+			"damage" : "59-68",
+			"strength" : 9,
+			"stamina" : 18,
+			"critchance" : 7,
+			"intellect" : 0,
+			"armor" : 0
+		},
+		"description" : "PLACEHOLDER",
+		"stackable" : false,
+		"rarity" : 5,
+		"slug" : "weapon_knife_5"
+	},
+	{
+		"id": 178,
+		"title" : "Pulse Baton",
+		"type" : "One-handed mace",
+		"value" : 437,
+		"stats" : {
+			"damage" : "76-100",
+			"strength" : 20,
+			"stamina" : 10,
+			"critchance" : 7,
+			"intellect" : 0,
+			"armor" : 0
+		},
+		"description" : "PLACEHOLDER",
+		"stackable" : false,
+		"rarity" : 5,
+		"slug" : "weapon_mace_5"
+	}
+]
